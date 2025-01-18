@@ -136,8 +136,8 @@ const resources = [
     ),
   },
   {
-    href: "/bookLists",
-    text: "BookLists",
+    href: "/LO2_026740491604-6",
+    text: "LO2_026740491604-6",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
